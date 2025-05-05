@@ -1,9 +1,9 @@
 ### REFER TO REPORTandGUIDE.pdf FOR DETAILED INSTRUCTIONS REGARDING PROJECT ###
-📌 Project Overview --
-The goal of this project is to develop a secure user login and management system that leverages AWS Cognito for authentication and identity management, while deploying the application on a LAMP-based EC2 instance. The system supports OAuth2-based login via Hosted UI, captures tokens, and validates user access, making it ideal for scalable and secure web applications.
+📌 Project Overview --<br>
+The goal of this project is to develop a secure user login and management system that leverages AWS Cognito for authentication and identity management, while deploying the application on a LAMP-based EC2 instance. The system supports OAuth2-based login via Hosted UI, captures tokens, and validates user access, making it ideal for scalable and secure web applications.<br>
 
 🚀 Features --
--✅ Secure user registration and login using AWS Cognito
+-✅ Secure user registration and login using AWS Cognito. <br>
 -🔒 OAuth2.0-based authentication with Hosted UI integration
 -🌐 Custom domain setup for public accessibility
 -📦 PHP-based frontend for token capture and API integration
